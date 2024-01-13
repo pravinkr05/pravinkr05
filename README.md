@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @pravinkr05
-- 👀 I’m interested in Programming, AI, ML, Web development, App development, and new tech stack.
-- 🌱 I’m currently learning Artificial Intelligence and cloud computing.
-- 💞️ I’m looking to collaborate on AI.
-- 📫 How to reach me - Work: +91 7061861412, Email- pravinkr.iiest@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Learning is also a nice skill for everyone.
-
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+- 👀 I’m interested in Programming, AI, ML, Web development, App development, and new tech stack.
+ 
 - 🔭 I’m currently working on **AI**
 
 - 🌱 I’m currently learning **AI and cloud computing**
@@ -19,10 +13,14 @@
 
 - 📝 I regularly write articles on [xyz](xyz)
 
-- 📫 How to reach me **pkr093093@gmail.com**
+- 📫 How to reach me **pkr093093@gmail.com**, Work: +91 7061861412
 
 - 📄 Know about my experiences [xyz](xyz)
-
+  
+- 😄 Pronouns: He
+  
+- ⚡ Skill fact **Learning is also a nice skill for everyone**.
+  
 - ⚡ Fun fact **Impossible says I'm possible.**
 
 <h3 align="left">Connect with me:</h3>
