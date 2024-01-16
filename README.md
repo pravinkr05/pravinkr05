@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A final year software engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkr05&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkr05" /> </p>
 
-- 🔭 I’m currently working on [Caleye Tree and Optimization Problem - A Research Project](https://github.com/pravinkr05/Caleye-Tree-and-Optimization-Problems---A-research-project)
-
 - 👀 I’m interested in Programming, AI, ML, Web development, App development, and new tech stack.
  
+- 🔭 I’m currently working on [Caleye Tree and Optimization Problem - A Research Project](https://github.com/pravinkr05/Caleye-Tree-and-Optimization-Problems---A-research-project)
+
 - 🌱 I’m currently learning **Artifitial Intelligence and Cloud Computing**
 
 - 👯 I’m looking to collaborate on **AI**
