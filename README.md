@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pravinkr05?tab=repositories](https://github.com/pravinkr05?tab=repositories)
+- 👨‍💻 All of my projects are available at [github-project-file](https://github.com/pravinkr05?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- 📝 I regularly write articles on [write story with us](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 - 📫 How to reach me **pkr093093@gmail.com**, Work: **+91 7061861412**
 
-- 📄 Know about my experiences [https://copper-biddie-76.tiiny.site](https://copper-biddie-76.tiiny.site)
+- 📄 Know about my experiences [My Little Resume](https://copper-biddie-76.tiiny.site)
 
 - 😄 Pronouns: He
   
