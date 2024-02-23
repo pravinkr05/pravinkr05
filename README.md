@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
-<h3 align="center">A final year software engineering student from India</h3>
+<h3 align="center">A final year software engineering student | Coder | Software Developer | Web Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkr05&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkr05" /> </p>
 
-- 👀 I’m interested in Programming, AI, ML, Web development, App development, and new tech stack.
+- 👀 I’m interested in Coding, AI, ML, Web development, App development, Open Source and new tech stack.
  
 - 🔭 I’m currently working on [Caleye Tree and Optimization Problem - A Research Project](https://github.com/pravinkr05/Caleye-Tree-and-Optimization-Problems---A-research-project)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [write story with us](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
-- 📫 How to reach me **pkr093093@gmail.com**, Work: **+91 7061861412**
+- 📫 How to reach me **pkr093093@gmail.com**
 
 - 📄 Know about my experiences [My Little Resume](https://copper-biddie-76.tiiny.site)
 
