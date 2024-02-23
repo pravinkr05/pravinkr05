@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
 <h3 align="center">A final year software engineering student | Coder | Software Developer | Web Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkr05&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkr05" /> </p>
+
 
 - 👀 I’m interested in Coding, AI, ML, Web development, App development, Open Source and new tech stack.
  
