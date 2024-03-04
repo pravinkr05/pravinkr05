@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Coding, AI, ML, Web development, App development, Open Source and new tech stack.
  
-- 🔭 I’m currently working on [Caleye Tree and Optimization Problem - A Research Project](https://github.com/pravinkr05/Caleye-Tree-and-Optimization-Problems---A-research-project)
+- 🔭 I’m currently working on [Caleye Tree and Optimization Problem - A Research Project](https://github.com/pravinkr05/Caleye-Tree-and-Optimization-Problems---A-Major-Project)
 
 - 🌱 I’m currently learning **Artifitial Intelligence and Cloud Computing**
 
