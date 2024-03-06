@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Artifitial Intelligence and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **AI**
+<! -- - 👯 I’m looking to collaborate on **AI**
 
 - 👨‍💻 All of my projects are available at [github-project-file](https://github.com/pravinkr05?tab=repositories)
 
-- 📝 I regularly write articles on [write story with us](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- 📝 I regularly write articles on [write story with us](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit) -->
 
 - 📫 How to reach me **pkr093093@gmail.com**
 
