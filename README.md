@@ -9,17 +9,11 @@
 
 - 🌱 I’m currently learning **Artifitial Intelligence and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **AI**
-
 - 👨‍💻 All of my projects are available at [github-project-file](https://github.com/pravinkr05?tab=repositories)
-
-- 📝 I regularly write articles on [write story with us]()
 
 - 📫 How to reach me **pkr093093@gmail.com**
 
 - 📄 Know about my experiences [My Little Resume]()
-
-- 😄 Pronouns: He
   
 - ⚡ Skill fact **Learning is also a nice skill for everyone**.
  
